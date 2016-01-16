@@ -18,7 +18,7 @@ Click on Red Creative Cloud Icon. Download.
 ###Download Creative Cloud 
 Install .dmg
 
-![Install] (https://github.com/patrickm02L/creative-cloud-setup/blob/master/imgs/Screen%20Shot%202016-01-16%20at%2011.18.41%20AM.png)
+![Install] (https://github.com/patrickm02L/creative-cloud-setup/blob/master/imgs/Screen%20Shot%202016-01-16%20at%2011.18.42%20AM.png)
 
 ###Download Basic Stack
 Select the Creative Cloud Icon on the top tool bar
