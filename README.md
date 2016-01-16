@@ -21,7 +21,7 @@ Install .dmg
 ![Install] (https://github.com/patrickm02L/creative-cloud-setup/blob/master/imgs/Screen%20Shot%202016-01-16%20at%2011.18.42%20AM.png)
 
 ###Download Basic Stack
-Select the Creative Cloud Icon on the top tool bar
+Select the Creative Cloud Icon on the top tool bar. Add: Photoshop, Lightroom, Illustrator, InDesign, Premiere Pro, After Effects, Audition, Media Endcoder.
 
 ![Creative Cloud Tool Bar](https://github.com/patrickm02L/creative-cloud-setup/blob/master/imgs/Screen%20Shot%202016-01-16%20at%2011.59.05%20AM.png)
 
