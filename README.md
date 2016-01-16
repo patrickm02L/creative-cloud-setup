@@ -9,7 +9,7 @@
 ###Create an Account
 http://www.adobe.com/creativecloud.html
 
-Create a login account and select Free Trial
+Create a Login account and select Free Trial
 
 ![Login Page](https://github.com/patrickm02L/creative-cloud-setup/blob/master/imgs/Screen%20Shot%202016-01-16%20at%2011.17.44%20AM.png)
 
