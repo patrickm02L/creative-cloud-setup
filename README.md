@@ -7,9 +7,9 @@
 ===========
 
 ###Create an Account
-http://www.adobe.com/creativecloud.html
-
 Create a Login account and select Free Trial
+
+http://www.adobe.com/creativecloud.html
 
 Click on Red Creative Cloud Icon. Download.
 
